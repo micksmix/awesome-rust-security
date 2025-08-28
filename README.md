@@ -84,6 +84,7 @@
 - [weggli](https://github.com/googleprojectzero/weggli) - fast and robust semantic search tool for C and C++ codebases
 - [noseyparker](https://github.com/praetorian-inc/noseyparker) - command-line program that finds secrets and sensitive information in textual data and Git history.
 - [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Static Analyzer
+- [kingfisher](https://github.com/mongodb/kingfisher) - blazingly fast secret‑scanning and live validation tool that can scan for secrets in files, git repos, s3 buckets, jira, confluence
 
 ### Fuzzing
 
